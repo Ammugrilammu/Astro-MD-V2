@@ -24,12 +24,12 @@
         "AUTO_REACT" :{
     "description" : "Auto Emoji React",
     "required" : true,
-  "value" : "🤍"
+  "value" : "👀"
     },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@astromdqr/AstroMdqrv2?output%20only=1&lite=1#index.js",
        "required" : true,
-  "value" : ""
+  "value" : "U2FsdGVkX1/TqVLU1g7ZQhb_S-E-C-K-T-O-R_pCjoRYK5/GaFKkX1PNME="
   },
   "ANTI_LINK" :{
     "description" : "Auto Delete Link",
@@ -49,37 +49,37 @@
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "NITHEESH 🥱"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "🍭NITHEESH🍭"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+919656593170"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*https://www.y2mate.com/en435*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*https://www.y2mate.com/en435*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*https://www.y2mate.com/en435*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*https://www.y2mate.com/en435*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
@@ -94,7 +94,7 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 nitheesh-𝙼𝙳*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
