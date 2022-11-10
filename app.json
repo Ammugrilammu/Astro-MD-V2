@@ -1,5 +1,5 @@
 {
-  "name": "Astro-MD V2",
+  "name": "🍁AMMU BAB🍁",
   "description": "Sinhala MultiDevice Bot Created By VihangaYT",
   "repository": "https://github.com/vihangayt0/Astro-MD-V2",
   "logo": "",
@@ -24,7 +24,7 @@
         "AUTO_REACT" :{
     "description" : "Auto Emoji React",
     "required" : true,
-  "value" : "true"
+  "value" : "🤍"
     },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@astromdqr/AstroMdqrv2?output%20only=1&lite=1#index.js",
